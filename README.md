@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Jazmin
 
-### 💻 Systems Engineering Student | 🌎 Bolivia 🇧🇴
+### 💻 Systems Computer Scientists  Student | 🌎 Bolivia 🇧🇴
 
 *"Learning, creating, and growing one line of code at a time."* ✨
 
@@ -12,9 +12,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Systems Engineering student.
+- 🎓 Systems Computer Scientists student.
 - 🌱 Currently learning **Java, PHP, SQL, HTML, CSS, and Git/GitHub**.
-- 📚 Interested in **Web Development, Databases, Computer Networks, and Artificial Intelligence**.
 - 🚀 I enjoy building projects and discovering new technologies.
 - ✨ Always looking for opportunities to improve my programming skills.
 
@@ -51,7 +50,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 User Git
 
 <div align="center">
 
