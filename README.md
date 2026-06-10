@@ -1,16 +1,70 @@
-## Hi there my name is Jazmin 👋
+<div align="center">
 
-<!--
-**Jaz-Chip/Jaz-Chip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Jazmin
 
-Here are some ideas to get you started:
+### 💻 Systems Engineering Student | 🌎 Bolivia 🇧🇴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 🥲
--->
+*"Learning, creating, and growing one line of code at a time."* ✨
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Systems Engineering student.
+- 🌱 Currently learning **Java, PHP, SQL, HTML, CSS, and Git/GitHub**.
+- 📚 Interested in **Web Development, Databases, Computer Networks, and Artificial Intelligence**.
+- 🚀 I enjoy building projects and discovering new technologies.
+- ✨ Always looking for opportunities to improve my programming skills.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,php,html,css,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jaz-Chip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaz-Chip&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌟 Current Goals
+
+- 🌐 Improve my web development skills.
+- 💡 Learn more about software development and databases.
+- 📂 Upload and document my university projects.
+- 🚀 Keep growing as a future software engineer.
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+🐙 GitHub: **@Jaz-Chip**
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+<img src="https://komarev.com/ghpvc/?username=Jaz-Chip&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
